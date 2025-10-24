@@ -14,4 +14,5 @@ openslide-bin-4.0.0.8-windows-x64 tool and configure it into the environment var
 
 
 
-![image-20251024174728525](C:\Users\pofenx\AppData\Roaming\Typora\typora-user-images\image-20251024174728525.png)
+ 
+<img width="1055" height="761" alt="4b51b12e095ae1b5470a55afa4e15027" src="https://github.com/user-attachments/assets/001b2bb0-d6c9-4cc1-90f3-ebf78492d2fe" />
