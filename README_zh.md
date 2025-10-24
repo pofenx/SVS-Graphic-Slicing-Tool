@@ -16,6 +16,5 @@
    https://github.com/openslide/openslide/releases
 - 在版本列表中查找 `4.0.0.8`，下载 `openslide-bin-4.0.0.8-windows-x64.zip` 文件。
 
+ <img width="1055" height="761" alt="4b51b12e095ae1b5470a55afa4e15027" src="https://github.com/user-attachments/assets/3afea29e-7955-4b75-9824-33d886b77484" />
 
-
-![image-20251024174744074](C:\Users\pofenx\AppData\Roaming\Typora\typora-user-images\image-20251024174744074.png)
